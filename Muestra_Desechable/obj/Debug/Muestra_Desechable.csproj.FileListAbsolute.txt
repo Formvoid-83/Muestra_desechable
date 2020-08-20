@@ -1,0 +1,7 @@
+C:\Users\Guillermo\source\repos\Muestra_Desechable\Muestra_Desechable\bin\Debug\Muestra_Desechable.exe.config
+C:\Users\Guillermo\source\repos\Muestra_Desechable\Muestra_Desechable\bin\Debug\Muestra_Desechable.exe
+C:\Users\Guillermo\source\repos\Muestra_Desechable\Muestra_Desechable\bin\Debug\Muestra_Desechable.pdb
+C:\Users\Guillermo\source\repos\Muestra_Desechable\Muestra_Desechable\obj\Debug\Muestra_Desechable.csprojAssemblyReference.cache
+C:\Users\Guillermo\source\repos\Muestra_Desechable\Muestra_Desechable\obj\Debug\Muestra_Desechable.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\source\repos\Muestra_Desechable\Muestra_Desechable\obj\Debug\Muestra_Desechable.exe
+C:\Users\Guillermo\source\repos\Muestra_Desechable\Muestra_Desechable\obj\Debug\Muestra_Desechable.pdb
